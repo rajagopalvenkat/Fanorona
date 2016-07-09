@@ -1,2 +1,2 @@
 # Fanorona
-###### Simulaition of a 17th centuary board game on Python
+###### Simulation of a 17th century board game on Python.
